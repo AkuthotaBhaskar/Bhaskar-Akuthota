@@ -7,7 +7,9 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://kind-meadow-08a11f500.2.azurestaticapps.net/
-**Project Demo video link** - 
+**Project Demo video link** -
+Azure technologies used for project
++Static web apps
 
 
 ## Features and Functionalities 😃
